@@ -1,0 +1,11 @@
+# LLM Recommendation Experiment — Default Configuration
+# Override any value via CLI args or by editing this file.
+
+model: "claude-sonnet-4-5-20250929"
+num_agents: 5
+
+tier_schema:
+  1: "Strong Match — high confidence the user would click to explore this item"
+  2: "Moderate Match — aligns with several preferences but has notable gaps"
+  3: "Weak Match — one or two alignment points, but overall not a fit"
+  4: "No Match — conflicts with core preferences or hits anti-preferences"

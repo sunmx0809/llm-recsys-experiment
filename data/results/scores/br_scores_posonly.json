@@ -1,0 +1,200 @@
+[
+  {
+    "id": "BR_001",
+    "name": "ARCHIVE REISSUE SUEDE DOUBLE POCKET JACKET",
+    "tier": 1,
+    "rationale": "Cropped suede jacket in dark chocolate brown with relaxed fit, double pocket detailing, and retro/vintage sensibility. Hits strong preferences for cropped length, warm brown tone, textured material, and visual interest through pocket hardware."
+  },
+  {
+    "id": "BR_002",
+    "name": "QUILTED VELVET VEST",
+    "tier": 3,
+    "rationale": "Cropped length and snap hardware align, but it is a vest (no sleeves, not bomber-adjacent), the beige/tan color is neutral but not the preferred dark warm palette, and the quilted construction is listed as an anti-preference."
+  },
+  {
+    "id": "BR_003",
+    "name": "REVERSIBLE COTTON CAR COAT",
+    "tier": 4,
+    "rationale": "Long coat well below mid-thigh conflicts with strong silhouette preference. While the dark olive/brown color and reversible mixed-media construction are positive, the long length is a core anti-preference."
+  },
+  {
+    "id": "BR_004",
+    "name": "TEXTURED SUEDE JACKET",
+    "tier": 1,
+    "rationale": "Cropped cognac/brown suede jacket with oversized relaxed fit, statement toggle hardware closures, and textured material. Aligns strongly across silhouette (cropped, relaxed), color (warm cognac), material (suede with texture), hardware details, and retro sensibility. Price at $700 fits the willingness to pay more for a distinctive piece."
+  },
+  {
+    "id": "BR_005",
+    "name": "LIGHTWEIGHT UTILITY JACKET",
+    "tier": 3,
+    "rationale": "Hip-length utility jacket in olive/khaki with a belted waist creating a more fitted silhouette. The warm earth tone and pocket detailing are mildly positive, but the cinched waist contradicts the relaxed/oversized fit preference and the jacket lacks textural interest or distinctive detailing."
+  },
+  {
+    "id": "BR_006",
+    "name": "ITALIAN WOOL-BLEND TOP COAT",
+    "tier": 4,
+    "rationale": "Full-length grey wool coat below mid-thigh in a cool-toned grey. Conflicts with strong preferences for cropped/hip-length silhouettes and warm color palette. Minimalist and unadorned."
+  },
+  {
+    "id": "BR_007",
+    "name": "ITALIAN WOOL-CASHMERE WRAP COAT",
+    "tier": 4,
+    "rationale": "Long black wrap coat extending well below mid-thigh. Directly conflicts with the strong cropped/hip-length silhouette preference. Minimalist design with no textural interest or embellishment."
+  },
+  {
+    "id": "BR_008",
+    "name": "ITALIAN WOOL-CASHMERE WRAP COAT",
+    "tier": 3,
+    "rationale": "Long wrap coat in warm camel/cognac tone below mid-thigh. The warm brown color is a positive signal, but the long coat silhouette directly conflicts with the strong cropped length preference and it has a minimalist unadorned aesthetic."
+  },
+  {
+    "id": "BR_009",
+    "name": "DISTRESSED LEATHER FLIGHT JACKET",
+    "tier": 1,
+    "rationale": "Distressed black leather flight/bomber jacket with cropped length, ribbed cuffs and hem, zip-front closure, oversized fit, and shearling collar accent. Hits nearly every strong preference: bomber silhouette, leather material, dark color, zip closure, cropped length, and mixed-material collar detail. The $698 price fits willingness to invest in distinctive leather pieces."
+  },
+  {
+    "id": "BR_010",
+    "name": "FUZZY ITALIAN WOOL-BLEND TOP COAT",
+    "tier": 3,
+    "rationale": "Long top coat in warm rust/terracotta with decorative blanket stitch edging, which is an artisanal detail the user appreciates. However, the fuzzy texture is an anti-preference, the length is well below mid-thigh, and the silhouette contradicts the cropped bomber shape preference."
+  },
+  {
+    "id": "BR_011",
+    "name": "HERITAGE SUEDE JACKET",
+    "tier": 2,
+    "rationale": "Suede jacket in warm camel/cognac with snap hardware and oversized relaxed fit. The color, material, snap closures, and pocket detailing align well, but the image shows a mid-length piece that may fall near or slightly below hip level, and the lighter camel shade is less strongly preferred than darker browns."
+  },
+  {
+    "id": "BR_012",
+    "name": "DOUBLE-FACED TOP COAT",
+    "tier": 4,
+    "rationale": "Full-length dark olive top coat well below mid-thigh. While the deep olive color and double-faced construction offer some interest, the long coat silhouette directly conflicts with the strong cropped/hip-length preference and the design is minimalist."
+  },
+  {
+    "id": "BR_013",
+    "name": "ITALIAN JACQUARD OVERCOAT",
+    "tier": 3,
+    "rationale": "Long overcoat in brown/blue jacquard pattern with velvet collar and cuff accents showing textural complexity and mixed-media construction. The warm brown tones, artisanal woven pattern, and mixed materials are positive, but the long below-mid-thigh length conflicts significantly with the silhouette preference."
+  },
+  {
+    "id": "BR_014",
+    "name": "ITALIAN WOOL-CASHMERE WRAP COAT",
+    "tier": 4,
+    "rationale": "Long bright cornflower blue wrap coat well below mid-thigh. Conflicts with both the strong cropped silhouette preference and the warm/dark color palette preference. Bright blue is outside the preferred earth-tone palette."
+  },
+  {
+    "id": "BR_015",
+    "name": "DOUBLE-FACED TOP COAT",
+    "tier": 4,
+    "rationale": "Long black double-faced top coat extending well below mid-thigh. Conflicts with the strong cropped/hip-length silhouette preference. Minimalist and unadorned design lacks the textural interest or detailing the user prefers."
+  },
+  {
+    "id": "BR_016",
+    "name": "OVERSIZED DISTRESSED LEATHER BOMBER JACKET",
+    "tier": 1,
+    "rationale": "Oversized distressed dark olive/green leather bomber jacket with zip front, ribbed hem and cuffs, and relaxed volume. This is a near-perfect match across all strong preferences: bomber silhouette, leather material, zip closure, cropped length, dark earth tone, oversized fit, and distressed character."
+  },
+  {
+    "id": "BR_017",
+    "name": "ITALIAN WOOL-BLEND TOP COAT",
+    "tier": 4,
+    "rationale": "Long navy wool top coat well below mid-thigh in a cool dark navy tone. Conflicts with the strong cropped silhouette preference and the warm color palette preference. Minimalist and unadorned."
+  },
+  {
+    "id": "BR_018",
+    "name": "DOUBLE-FACED TOP COAT",
+    "tier": 3,
+    "rationale": "Long camel/tan striped top coat below mid-thigh. The warm camel tone is a positive signal, but the long length directly conflicts with the strong cropped silhouette preference and the design is relatively minimalist despite the tonal stripe pattern."
+  },
+  {
+    "id": "BR_019",
+    "name": "FLORAL QUILTED PARKA",
+    "tier": 2,
+    "rationale": "Hip-length quilted parka in dark olive floral print with zip-front, snap hardware, and oversized fit. The dark olive earth tone, zip closure, oversized relaxed fit, visual interest through the floral print, and hip length align well. However, quilted/puffer is an anti-preference, though the floral pattern and snap pockets add artisanal personality that partially offsets this, and the $180 price is within the core range."
+  },
+  {
+    "id": "BR_020",
+    "name": "DOUBLE-FACED TOP COAT",
+    "tier": 4,
+    "rationale": "Long navy double-faced top coat below mid-thigh with plain minimalist design. Conflicts with strong silhouette preference for cropped lengths and shows cool-toned navy rather than preferred warm earth tones."
+  },
+  {
+    "id": "BR_021",
+    "name": "SLIM EVERYWHERE PONTE BLAZER",
+    "tier": 4,
+    "rationale": "Slim-fit olive ponte blazer with tailored corporate silhouette. Directly conflicts with preferences for relaxed/oversized fit and against heavily tailored/corporate blazers. No textural interest or embellishment."
+  },
+  {
+    "id": "BR_022",
+    "name": "DOUBLE-FACED TOP COAT",
+    "tier": 4,
+    "rationale": "Long coral/orange-red top coat below mid-thigh. The bright warm color is outside the preferred dark/warm earth-tone palette, and the long silhouette conflicts with the strong cropped length preference."
+  },
+  {
+    "id": "BR_023",
+    "name": "SHORT REVERSIBLE COTTON CAR COAT",
+    "tier": 3,
+    "rationale": "Short car coat in off-white/cream with button closure and reversible construction. The shorter length and reversible mixed-media element are positive, but the light cream color is outside the dark earth-tone palette and the overall aesthetic is clean and minimal rather than textured and embellished."
+  },
+  {
+    "id": "BR_024",
+    "name": "QUILTED CHENILLE & CANVAS FIELD JACKET",
+    "tier": 2,
+    "rationale": "Hip-length quilted field jacket in warm cognac suede with mixed-media construction (chenille and canvas), zip front, snap hardware, and oversized relaxed fit. The warm cognac tone, mixed materials, snap details, and hip length align, but quilted construction is an anti-preference, somewhat offset by the artisanal suede material and the $275 price near the core range."
+  },
+  {
+    "id": "BR_025",
+    "name": "OVERSIZED TWILL BLAZER",
+    "tier": 3,
+    "rationale": "Oversized black twill blazer at hip length. The oversized fit and black color are positive, but it is still a blazer silhouette rather than bomber-adjacent, and it lacks any textural complexity, embellishment, or hardware detailing that the user prefers."
+  },
+  {
+    "id": "BR_026",
+    "name": "HERITAGE SUEDE JACKET",
+    "tier": 2,
+    "rationale": "Suede jacket in light camel/sand with snap hardware, pocket detailing, and oversized fit at hip length. The suede material, snap closures, relaxed fit, and warm neutral tone align with multiple preferences, but the light sandy camel is paler than the preferred darker cognac/brown tones."
+  },
+  {
+    "id": "BR_027",
+    "name": "DOUBLE-FACED TOP COAT",
+    "tier": 4,
+    "rationale": "Long emerald green top coat well below mid-thigh. The saturated green is outside the warm earth-tone palette, the long silhouette directly conflicts with the cropped preference, and the design is minimalist without embellishment."
+  },
+  {
+    "id": "BR_028",
+    "name": "ITALIAN MELTON WOOL-BLEND PEACOAT",
+    "tier": 3,
+    "rationale": "Cropped yellow wool peacoat with oversized fit and double-breasted closure. The cropped length and oversized volume are strong positives, but bright yellow is a clear conflict with the dark/warm earth-tone color palette preference. The lack of textural detail or hardware beyond standard buttons is also a gap."
+  },
+  {
+    "id": "BR_029",
+    "name": "BARN COAT",
+    "tier": 2,
+    "rationale": "Dark indigo denim barn coat at hip length with toggle hardware closures, pockets, and relaxed oversized fit. The statement toggle hardware, hip-length cropped silhouette, and relaxed fit align, but the denim material leans toward the traditional denim jacket anti-preference, though the barn-coat styling and toggles differentiate it significantly from a basic denim jacket."
+  },
+  {
+    "id": "BR_030",
+    "name": "SLIM CITY STRETCH BLAZER",
+    "tier": 4,
+    "rationale": "Slim-fit tailored olive blazer with corporate suiting aesthetic. Directly conflicts with preferences for relaxed/oversized fit and against heavily tailored/corporate blazers. No textural interest, hardware, or embellishment."
+  },
+  {
+    "id": "BR_031",
+    "name": "DOUBLE-FACED SHORT JACKET WITH BLANKET STITCH",
+    "tier": 2,
+    "rationale": "Cropped double-faced jacket with prominent blanket stitch detailing, oversized relaxed fit, and snap closures. The blanket stitch is a strong artisanal/craft detail match, cropped length and oversized fit align, but the coral/salmon color conflicts with the dark earth-tone palette preference."
+  },
+  {
+    "id": "BR_032",
+    "name": "SLIM ITALIAN WOOL BLAZER",
+    "tier": 4,
+    "rationale": "Slim tailored navy wool blazer with corporate suiting aesthetic, worn with matching trousers. Directly conflicts with preferences for relaxed/oversized fit and against heavily tailored/corporate blazers. Cool navy tone and minimalist design are also mismatches."
+  },
+  {
+    "id": "BR_033",
+    "name": "CLASSIC COTTON TRENCH COAT",
+    "tier": 4,
+    "rationale": "Full-length olive cotton trench coat. Trench coats are explicitly listed as a silhouette to avoid, and the long length well below mid-thigh further conflicts with the strong cropped silhouette preference."
+  }
+]

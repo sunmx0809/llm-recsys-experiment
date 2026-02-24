@@ -1,0 +1,58 @@
+# Working files (not needed for reproduction)
+blog_draft_*.md
+deep_dive_*.md
+session_interaction_history.md
+withheld_feedback.md
+phase2a_comparison.md
+phase2b_comparison.md
+phase2a_vs_2b_insights.md
+phase2a_vs_2b_results.json
+phase3_qualitative_insights.md
+phase3_results.json
+phase3_user_eval.json
+phase3_shuffle_key.json
+phase3b_shuffle_key.json
+phase3_full_shuffle_key.json
+phase3_eval*.html
+inject_blog.py
+split_html.py
+make_selfcontained.py
+negative_samples_grid.png
+cc\ interaction\ history
+CC\ Interaction\ History\ Recording.itr
+html\ style\ template.html
+
+# Original flat files (now in data/)
+training_data.json
+negative_samples.json
+fp_catalog.json
+br_catalog.json
+fp_scores.json
+br_scores.json
+fp_scores_2a.json
+br_scores_2a.json
+phase3_full_results.json
+phase3_answer_key.json
+phase2a_preference_brief.md
+phase3_preference_brief.md
+phase2a_agent*_synthesis.md
+phase2b_agent*_synthesis.md
+phase2a_vs_2b_delta.md
+cost_analysis.md
+phase2a_input.json
+phase2b_input.json
+
+# Original image dirs (now in data/)
+/images/
+/phase3_images/
+
+# HTML writeup (separate deliverable)
+experiment_walkthrough.html
+experiment_walkthrough_standalone.html
+scoring_detail.html
+
+# System
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,233 @@
+[
+  {
+    "id": "BR_001",
+    "name": "ARCHIVE REISSUE SUEDE DOUBLE POCKET JACKET",
+    "price": "$650.00",
+    "tier": 4,
+    "rationale": "Suede is an anti-preference material, and at $650 for a conventional button-front silhouette with no textural embellishment, this directly conflicts with both the suede rejection pattern and the rule against paying premiums for conventional forms."
+  },
+  {
+    "id": "BR_002",
+    "name": "QUILTED VELVET VEST",
+    "price": "$180.00",
+    "tier": 4,
+    "rationale": "Sleeveless vest is an explicitly rejected silhouette. Despite the quilted velvet texture and snap buttons providing some visual interest, vests are a firm anti-preference."
+  },
+  {
+    "id": "BR_003",
+    "name": "REVERSIBLE COTTON CAR COAT",
+    "price": "$320.00",
+    "tier": 4,
+    "rationale": "Long coat silhouette falling well below mid-thigh directly conflicts with the length anti-preference. While the reversible gingham lining adds material interest, the long, single-material cotton construction fails on multiple strong preferences."
+  },
+  {
+    "id": "BR_004",
+    "name": "TEXTURED SUEDE JACKET",
+    "price": "$700.00",
+    "tier": 3,
+    "rationale": "Suede is an anti-preference material, but this piece has offsetting positives: cropped hip-length silhouette, oversized/relaxed fit, warm cognac-brown color, and distinctive metal toggle/clasp hardware providing artisanal detail. The hardware is genuinely interesting but suede at $700 remains a significant conflict."
+  },
+  {
+    "id": "BR_005",
+    "name": "LIGHTWEIGHT UTILITY JACKET",
+    "price": "$250.00",
+    "tier": 4,
+    "rationale": "Tie-front/belted closure is an anti-preference, the olive-khaki color is somewhat washed out, and the plain single-material cotton construction has no textural complexity. The fitted-waist silhouette also conflicts with the preference for relaxed/oversized fit."
+  },
+  {
+    "id": "BR_006",
+    "name": "ITALIAN WOOL-BLEND TOP COAT",
+    "price": "$450.00",
+    "tier": 4,
+    "rationale": "Long coat falling well below mid-thigh in cool-toned charcoal grey with plain, single-material wool construction. Conflicts with length, color (cool tones avoided), and textural complexity preferences simultaneously."
+  },
+  {
+    "id": "BR_007",
+    "name": "ITALIAN WOOL-CASHMERE WRAP COAT",
+    "price": "$550.00",
+    "tier": 4,
+    "rationale": "Full-length black wrap coat with open-front construction hits multiple anti-preferences: below mid-thigh length, plain single-material construction, and open/tie-front closure. A premium price for a completely conventional long coat form."
+  },
+  {
+    "id": "BR_008",
+    "name": "ITALIAN WOOL-CASHMERE WRAP COAT",
+    "price": "$385.00",
+    "tier": 4,
+    "rationale": "Full-length camel wrap coat with open-front closure. Same silhouette issues as BR_007: too long, open-front closure, plain single-material construction with no textural interest despite the warm camel color."
+  },
+  {
+    "id": "BR_009",
+    "name": "DISTRESSED LEATHER FLIGHT JACKET",
+    "price": "$698.00",
+    "tier": 2,
+    "rationale": "Strong bomber/flight jacket silhouette with cropped length, ribbed cuffs and hem, oversized fit, and dark earth-tone color. The distressed leather finish and shearling collar provide mixed-material textural complexity. Misses Tier 1 because the embellishment is more inherent to the aviator form than a distinctive decorative element, and $698 is high for what is ultimately a fairly classic flight jacket shape."
+  },
+  {
+    "id": "BR_010",
+    "name": "FUZZY ITALIAN WOOL-BLEND TOP COAT",
+    "price": "$374.99",
+    "tier": 3,
+    "rationale": "Long coat with blanket-stitch trim provides genuine artisanal detailing, but the silhouette falls well below mid-thigh which is a strong anti-preference. The warm russet-brown color is on-palette and the whip-stitch edge detail is craft-forward, but the length disqualifies it from higher tiers."
+  },
+  {
+    "id": "BR_011",
+    "name": "HERITAGE SUEDE JACKET",
+    "price": "$598.00",
+    "tier": 4,
+    "rationale": "Suede material in camel/tan is an anti-preference, and the jacket appears to be a plain, unadorned single-material suede shirt-jacket construction. At $598 this is a premium price for a conventional suede form with no embellishment or textural complexity."
+  },
+  {
+    "id": "BR_012",
+    "name": "DOUBLE-FACED TOP COAT",
+    "price": "$350.00",
+    "tier": 4,
+    "rationale": "Long dark olive coat falling well below mid-thigh in a plain, single-material wool construction. While the double-faced nature means there is a contrasting brown undercollar, the silhouette length and lack of textural complexity are decisive negatives."
+  },
+  {
+    "id": "BR_013",
+    "name": "ITALIAN JACQUARD OVERCOAT",
+    "price": "$600.00",
+    "tier": 3,
+    "rationale": "The jacquard pattern provides genuine textural complexity with a brown and blue woven check, and the velvet collar and pocket trim introduce mixed-material interest. However, the long overcoat silhouette falling below mid-thigh conflicts with the length anti-preference, preventing a higher tier despite the textural strengths."
+  },
+  {
+    "id": "BR_014",
+    "name": "ITALIAN WOOL-CASHMERE WRAP COAT",
+    "price": "$449.99",
+    "tier": 4,
+    "rationale": "Full-length bright blue wrap coat in a single plain material. Conflicts with anti-preferences on length (well below mid-thigh), color (bright primary blue is avoided), plain construction, and the open-front wrap closure."
+  },
+  {
+    "id": "BR_015",
+    "name": "DOUBLE-FACED TOP COAT",
+    "price": "$348.00",
+    "tier": 4,
+    "rationale": "Long black top coat falling well below mid-thigh in plain, single-material wool construction. Hits length and textural anti-preferences. Despite the double-faced feature, the overall appearance is a conventional minimalist long coat."
+  },
+  {
+    "id": "BR_016",
+    "name": "OVERSIZED DISTRESSED LEATHER BOMBER JACKET",
+    "price": "$598.00",
+    "tier": 2,
+    "rationale": "Strong alignment with bomber silhouette preference: cropped, oversized fit, zip-front, ribbed cuffs and hem. The deep olive/dark green leather is within the earth-tone palette. The distressed leather finish adds textural character. Falls short of Tier 1 because the bomber lacks a distinctive decorative embellishment beyond the distressing, which is inherent to the material treatment rather than applied surface design."
+  },
+  {
+    "id": "BR_017",
+    "name": "ITALIAN WOOL-BLEND TOP COAT",
+    "price": "$324.99",
+    "tier": 4,
+    "rationale": "Long navy top coat falling below mid-thigh in a plain, single-material construction. Conflicts with length, cool-tone navy color, and lack of textural complexity. A conventional coat form at a premium price."
+  },
+  {
+    "id": "BR_018",
+    "name": "DOUBLE-FACED TOP COAT",
+    "price": "$224.99",
+    "tier": 4,
+    "rationale": "Long camel-striped top coat well below mid-thigh. While the tonal stripe pattern adds some visual interest and the camel color is within the warm palette, the long coat silhouette is a firm anti-preference and the construction remains a plain single-material wool."
+  },
+  {
+    "id": "BR_019",
+    "name": "FLORAL QUILTED PARKA",
+    "price": "$179.99",
+    "tier": 2,
+    "rationale": "Hits several preference notes: oversized relaxed fit, cropped to hip length, dark olive/floral print provides surface-level design interest, quilted construction adds textural dimension, zip-front closure, and the price is within the core $100-$200 range. The dark floral on olive reads as warm earth-tone camouflage rather than bright. Misses Tier 1 because the parka silhouette is not quite bomber-adjacent and the floral could read as boho to this user."
+  },
+  {
+    "id": "BR_020",
+    "name": "DOUBLE-FACED TOP COAT",
+    "price": "$224.99",
+    "tier": 4,
+    "rationale": "Long navy double-faced top coat with contrasting brown collar lining, falling well below mid-thigh. Despite the double-faced contrast detail and warm palette on the reverse, the long coat silhouette is a decisive anti-preference."
+  },
+  {
+    "id": "BR_021",
+    "name": "SLIM EVERYWHERE PONTE BLAZER",
+    "price": "$200.00",
+    "tier": 4,
+    "rationale": "Slim, fitted, body-skimming ponte blazer in olive is a traditional tailored/corporate blazer silhouette in a single material with no textural complexity. Conflicts with anti-preferences for fitted silhouettes, traditional tailored blazers, and plain single-material construction."
+  },
+  {
+    "id": "BR_022",
+    "name": "DOUBLE-FACED TOP COAT",
+    "price": "$224.99",
+    "tier": 4,
+    "rationale": "Long orange/coral-red top coat falling below mid-thigh. While it has some visual punch in the warm color and the double-faced construction, the color leans toward a bright primary tone rather than the dark/warm earth tones preferred, and the long coat silhouette is a firm anti-preference."
+  },
+  {
+    "id": "BR_023",
+    "name": "SHORT REVERSIBLE COTTON CAR COAT",
+    "price": "$300.00",
+    "tier": 3,
+    "rationale": "The shorter length (hip to mid-thigh) is closer to the preferred range and the reversible feature introduces material interest. However, the cream/ivory color without heavy darker contrast elements, plain cotton construction, and somewhat conventional button-front car coat form provide limited alignment with the profile."
+  },
+  {
+    "id": "BR_024",
+    "name": "QUILTED CHENILLE & CANVAS FIELD JACKET",
+    "price": "$274.99",
+    "tier": 3,
+    "rationale": "Mixed-material construction (quilted chenille + canvas) with visible diamond-quilt pattern aligns with the textural complexity preference. The warm cognac/camel color is on-palette and the hip-length cropped silhouette fits. However, suede-like chenille material is a concern, the field jacket silhouette is not bomber-adjacent, and the overall look leans more traditional country than craft-forward modernist."
+  },
+  {
+    "id": "BR_025",
+    "name": "OVERSIZED TWILL BLAZER",
+    "price": "$300.00",
+    "tier": 4,
+    "rationale": "Black oversized blazer in a plain single-material twill construction. While the oversized fit and black color align, the traditional blazer silhouette in a plain, texturally flat material directly matches the anti-preference for corporate/minimalist single-material blazers."
+  },
+  {
+    "id": "BR_026",
+    "name": "HERITAGE SUEDE JACKET",
+    "price": "$600.00",
+    "tier": 4,
+    "rationale": "Light tan/beige suede jacket in a plain, unadorned single-material construction. Suede is an anti-preference material, the light beige color is washed-out rather than dark/warm, and at $600 there is no design novelty to justify the premium. Conflicts on multiple fronts."
+  },
+  {
+    "id": "BR_027",
+    "name": "DOUBLE-FACED TOP COAT",
+    "price": "$224.99",
+    "tier": 4,
+    "rationale": "Long emerald green top coat falling well below mid-thigh in a single-material wool construction. While green is closer to earth tones, the bright jewel-tone green is not within the preferred dark/warm palette, and the long coat silhouette is a decisive anti-preference."
+  },
+  {
+    "id": "BR_028",
+    "name": "ITALIAN MELTON WOOL-BLEND PEACOAT",
+    "price": "$300.00",
+    "tier": 3,
+    "rationale": "Cropped, oversized yellow peacoat with some alignment on silhouette (cropped, relaxed fit, double-breasted with volume). However, the bright yellow color is a strong conflict with the dark/warm earth-tone palette preference, and the plain single-material construction lacks textural complexity."
+  },
+  {
+    "id": "BR_029",
+    "name": "BARN COAT",
+    "price": "$270.00",
+    "tier": 3,
+    "rationale": "Dark indigo denim barn coat at hip length with metal toggle/clasp hardware providing artisanal-style closure detail. The relaxed fit and dark color have some alignment, but denim is a single material without textural complexity, and the barn coat form is not bomber-adjacent. The toggle closures add character but the overall piece reads more workwear-basic than craft-forward."
+  },
+  {
+    "id": "BR_030",
+    "name": "SLIM CITY STRETCH BLAZER",
+    "price": "$220.00",
+    "tier": 4,
+    "rationale": "Fitted, slim olive blazer in a plain single-material stretch fabric. This is the exact archetype of the anti-preference: a traditional tailored/corporate blazer in a single material with no textural complexity, fitted silhouette, and minimalist styling."
+  },
+  {
+    "id": "BR_031",
+    "name": "DOUBLE-FACED SHORT JACKET WITH BLANKET STITCH",
+    "price": "$250.00",
+    "tier": 2,
+    "rationale": "Strong alignment on multiple preference axes: cropped hip-length silhouette, oversized/boxy relaxed fit, prominent blanket-stitch detailing providing artisanal craft interest, double-faced construction for material mixing. The blanket stitch satisfies the embellishment requirement. Falls short of Tier 1 because the warm coral/salmon color is not within the preferred dark earth-tone palette and leans toward the bright/warm side rather than dark."
+  },
+  {
+    "id": "BR_032",
+    "name": "SLIM ITALIAN WOOL BLAZER",
+    "price": "$270.00",
+    "tier": 4,
+    "rationale": "Slim, fitted dark navy wool blazer is the prototypical anti-preference item: a traditional tailored/corporate blazer in a single material with fitted silhouette, cool navy color, and no textural complexity or embellishment. Styled with a suit further reinforces the corporate aesthetic."
+  },
+  {
+    "id": "BR_033",
+    "name": "CLASSIC COTTON TRENCH COAT",
+    "price": "$400.00",
+    "tier": 4,
+    "rationale": "Classic trench coat silhouette in olive cotton falling well below mid-thigh. Trench coats are explicitly listed as an anti-preference silhouette, and the belted, button-front styling with plain single-material cotton construction conflicts on every major preference dimension."
+  }
+]

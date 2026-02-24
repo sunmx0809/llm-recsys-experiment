@@ -1,0 +1,422 @@
+[
+  {
+    "id": "FP_001",
+    "name": "Devon Striped Balloon Jacket",
+    "tier": 3,
+    "rationale": "Cropped bomber-adjacent silhouette with zip front and balloon volume aligns with silhouette preferences, but the white/cream with black stripes palette misses the dark and warm earth tone color preference."
+  },
+  {
+    "id": "FP_002",
+    "name": "Lotty Jacquard Jacket",
+    "tier": 2,
+    "rationale": "Jacquard weave provides artisanal textural complexity with warm dusty rose/brown tone and cropped length; however, the blazer-like silhouette and button closure diverge from bomber shape and zip-front preferences."
+  },
+  {
+    "id": "FP_003",
+    "name": "We The Free Fringe Out Vegan Suede Jacket",
+    "tier": 1,
+    "rationale": "Vegan suede in cognac/brown hits the leather-look and warm earth tone preferences perfectly; fringe detailing adds artisanal craft interest, and the relaxed oversized fit with hip length matches the silhouette profile."
+  },
+  {
+    "id": "FP_004",
+    "name": "We The Free Brick Lane Jacquard Maxi Shirt Jacket",
+    "tier": 4,
+    "rationale": "Maxi-length silhouette directly conflicts with the strong preference for cropped-to-hip-length outerwear; the olive jacquard has textural interest but the long duster shape is an anti-preference."
+  },
+  {
+    "id": "FP_005",
+    "name": "We The Free Lemon Denim Jacket",
+    "tier": 4,
+    "rationale": "Traditional denim jacket in light wash blue with basic button-front construction hits multiple anti-preferences: standard denim jacket form, cool-toned light color, and no distinctive detailing."
+  },
+  {
+    "id": "FP_006",
+    "name": "Dolman Quilted Knit Jacket",
+    "tier": 3,
+    "rationale": "Cropped bomber-adjacent shape with zip front and warm camel/tan tone aligns with silhouette and color preferences, but the quilted construction is listed as an anti-preference aesthetic."
+  },
+  {
+    "id": "FP_007",
+    "name": "We The Free Iggy Hooded Denim Jacket",
+    "tier": 3,
+    "rationale": "The oversized relaxed bomber-like shape with zip front and cropped length are positives, but it is a light-wash denim jacket which leans toward the basic denim anti-preference; the hoodie layering adds some mixed-media interest."
+  },
+  {
+    "id": "FP_008",
+    "name": "We The Free Madison City Denim Jacket",
+    "tier": 4,
+    "rationale": "Basic traditional denim jacket silhouette in light wash blue with button front and minimal detailing conflicts with anti-preferences for unmodified denim jackets and cool-toned light colors."
+  },
+  {
+    "id": "FP_009",
+    "name": "Dean Double-Breasted Blazer",
+    "tier": 4,
+    "rationale": "Tailored double-breasted blazer in pale cream/ivory conflicts with anti-preferences for heavily tailored/corporate blazers and the preference for dark/warm earth tones."
+  },
+  {
+    "id": "FP_010",
+    "name": "Jojo Washed Oversized Jacket",
+    "tier": 3,
+    "rationale": "Oversized relaxed fit in olive green aligns with fit and earth-tone color preferences, but the utilitarian field jacket silhouette lacks the bomber shape, zip-front closure, and textural/artisanal interest the user prefers."
+  },
+  {
+    "id": "FP_011",
+    "name": "Whip Smart Blazer",
+    "tier": 3,
+    "rationale": "Cropped length and warm taupe/brown tweed texture provide some alignment, but the fitted tailored blazer silhouette leans toward the corporate blazer anti-preference, and it lacks zip closure or artisanal detailing."
+  },
+  {
+    "id": "FP_012",
+    "name": "Whip Smart Plaid Blazer",
+    "tier": 3,
+    "rationale": "Cropped plaid blazer in warm neutral tones with textural interest from the plaid pattern, but the tailored blazer form and button closure conflict with bomber silhouette and zip-front preferences."
+  },
+  {
+    "id": "FP_013",
+    "name": "We The Free Monique Denim Duster",
+    "tier": 4,
+    "rationale": "Full-length duster in leopard print directly conflicts with the strong preference for cropped-to-hip-length outerwear; the long coat silhouette is an explicit anti-preference."
+  },
+  {
+    "id": "FP_014",
+    "name": "We The Free Opal Swing Denim Jacket",
+    "tier": 3,
+    "rationale": "Cropped oversized swing shape has some silhouette alignment, but it reads as a basic denim jacket in medium-wash blue with button front and minimal embellishment, hitting several anti-preferences."
+  },
+  {
+    "id": "FP_015",
+    "name": "Winter Valley Kimono",
+    "tier": 4,
+    "rationale": "Long sheer ruffled kimono in pastel blush/pink conflicts with anti-preferences for pastel/delicate femininity, long length, and lacks any of the preferred structural elements like bomber shape or zip closure."
+  },
+  {
+    "id": "FP_016",
+    "name": "We The Free Birdie Track Jacket",
+    "tier": 3,
+    "rationale": "Bomber-adjacent track jacket silhouette with cropped length and zip front aligns with shape preferences, but the pale blue/grey cool tone conflicts with the warm dark earth-tone palette preference."
+  },
+  {
+    "id": "FP_017",
+    "name": "Aura Liner",
+    "tier": 2,
+    "rationale": "Cropped bomber-like silhouette in olive green with quilted/padded construction and zip front aligns with several preferences; the olive earth tone and relaxed fit are positives, though the quilted look is an aesthetic caveat."
+  },
+  {
+    "id": "FP_018",
+    "name": "We The Free Outset Jacket",
+    "tier": 3,
+    "rationale": "Cream/ivory jacket with lace peplum detailing has mixed-media textural interest, but the light color and delicate feminine lace trim conflict with the dark warm earth-tone and edgy aesthetic preferences."
+  },
+  {
+    "id": "FP_019",
+    "name": "Juliet Duster",
+    "tier": 4,
+    "rationale": "Bright turquoise/green flowy duster in a sheer flowing fabric conflicts with multiple anti-preferences: bright color, long silhouette, and delicate feminine aesthetic with no structured outerwear elements."
+  },
+  {
+    "id": "FP_020",
+    "name": "Blanket Duster Wrap",
+    "tier": 4,
+    "rationale": "Long blanket wrap/poncho in deep red falls below mid-thigh and is a wrap rather than a jacket; the non-standard construction and long length conflict with core silhouette preferences despite the warm tone."
+  },
+  {
+    "id": "FP_021",
+    "name": "Renaux Officer Jacket",
+    "tier": 2,
+    "rationale": "Deep olive military officer jacket with structured snap/button hardware, cropped length, and warm dark green tone aligns with earth-tone color and statement hardware preferences; however the tailored military silhouette is not bomber-adjacent."
+  },
+  {
+    "id": "FP_022",
+    "name": "We The Free Opal Swing Suede Jacket",
+    "tier": 2,
+    "rationale": "Oversized swing silhouette in warm camel/tan suede with snap hardware aligns with earth tone, relaxed fit, and textural preferences; the suede material has a smooth rich surface, though it lacks the zip-front and bomber shape."
+  },
+  {
+    "id": "FP_023",
+    "name": "Barbour Kennedy Check Showerproof Jacket",
+    "tier": 4,
+    "rationale": "A longer houndstooth check coat in a performance/showerproof fabric directly conflicts with anti-preferences for technical outerwear fabrics and long coat silhouettes."
+  },
+  {
+    "id": "FP_024",
+    "name": "We The Free Blair Vegan Suede Jacket",
+    "tier": 2,
+    "rationale": "Cropped vegan suede in warm cognac/brown with snap hardware and relaxed fit aligns well with earth-tone color, leather-look material, and cropped silhouette preferences; missing zip front and bomber shape specifically."
+  },
+  {
+    "id": "FP_025",
+    "name": "Charlotte Simone Stella Jacket",
+    "tier": 3,
+    "rationale": "Black color and embellishment (rhinestones/studs) with statement detail align partially, but the prominent faux fur trim is a listed anti-preference material, creating a significant mismatch despite the dark tone."
+  },
+  {
+    "id": "FP_026",
+    "name": "We The Free Fringe Out Suede Jacket",
+    "tier": 2,
+    "rationale": "Real suede with dramatic fringe detailing provides artisanal craft interest and warm camel/honey tone, with a relaxed oversized fit; the non-zip closure and lighter yellow-tan shade are minor caveats against otherwise strong alignment."
+  },
+  {
+    "id": "FP_027",
+    "name": "FP One Birdie Washed Jacket",
+    "tier": 2,
+    "rationale": "Cropped bomber-like silhouette in deep olive with elasticized hem, relaxed oversized fit, and washed texture aligns with several core preferences; lacks zip-front and distinctive embellishment but the shape and color are strong matches."
+  },
+  {
+    "id": "FP_028",
+    "name": "Monarch Magic Jacket",
+    "tier": 1,
+    "rationale": "Cropped leather-look jacket in deep green with elaborate mixed-media embellishment (applique butterfly, metallic accents, embroidery) is a perfect match for artisanal detailing, leather material, dark color, cropped length, and the willingness to pay $700+ for a distinctive designer piece."
+  },
+  {
+    "id": "FP_029",
+    "name": "Christy Leather Moto Jacket",
+    "tier": 2,
+    "rationale": "Real leather moto jacket in red with star applique detailing offers leather material, mixed-media artisanal embellishment, cropped length, and zip closure; however the bright red color diverges from the dark/warm earth-tone palette preference."
+  },
+  {
+    "id": "FP_030",
+    "name": "Louder Please Hooded Faux Fur Jacket",
+    "tier": 4,
+    "rationale": "Faux fur jacket in black directly conflicts with the anti-preference for fur/fuzzy textures, despite the dark color and cropped silhouette."
+  },
+  {
+    "id": "FP_031",
+    "name": "Parker Leather Jacket",
+    "tier": 1,
+    "rationale": "Oversized black leather jacket with zip front, distressed finish, and visible hardware/zippers perfectly aligns with leather material, dark color, zip closure, relaxed fit, statement hardware, and the user's willingness to spend $700+ on a distinctive leather piece."
+  },
+  {
+    "id": "FP_032",
+    "name": "Driftwood Gardenia Embroidered Denim Jacket",
+    "tier": 3,
+    "rationale": "Heavy floral embroidery provides artisanal craft detailing, but the base is a traditional denim jacket form in medium blue wash with a belted/longer silhouette, hitting the basic denim anti-preference despite the elaborate embellishment upgrade."
+  },
+  {
+    "id": "FP_033",
+    "name": "Heirloom Maxi Top",
+    "tier": 4,
+    "rationale": "Long white lace duster/maxi top conflicts with multiple anti-preferences: long length below mid-thigh, pastel/delicate femininity, and sheer lace construction rather than a structured outerwear piece."
+  },
+  {
+    "id": "FP_034",
+    "name": "We The Free Lana Leather Jacket",
+    "tier": 1,
+    "rationale": "Black leather bomber-adjacent jacket with ornate gold embroidery, button hardware, cropped relaxed fit, and artisanal detailing is a near-perfect match across leather material, dark color, embellishment, craft detailing, and the $700+ distinctive designer piece willingness."
+  },
+  {
+    "id": "FP_035",
+    "name": "Mauritius Morgan Leather Moto Jacket",
+    "tier": 1,
+    "rationale": "Black leather moto jacket with zip front, stud detailing, and visible metal hardware perfectly aligns with leather material, dark color, zip closure, statement hardware, and cropped length preferences."
+  },
+  {
+    "id": "FP_036",
+    "name": "Moon Petals Jacket",
+    "tier": 3,
+    "rationale": "The faux fur and shaggy texture combined with embroidered satin panels creates mixed-media interest, but the prominent fur/shaggy elements conflict with the anti-preference for fuzzy textures, and the light beige pastel palette diverges from dark warm tones."
+  },
+  {
+    "id": "FP_037",
+    "name": "French Exit Jacket",
+    "tier": 3,
+    "rationale": "Cropped fitted jacket with fur collar trim and light cream/gold brocade fabric has mixed-media textural interest, but the prominent fur collar is an anti-preference and the pale color palette conflicts with dark earth-tone preferences."
+  },
+  {
+    "id": "FP_038",
+    "name": "Charlotte Simone Rocky Jacket",
+    "tier": 3,
+    "rationale": "Leopard print bomber-adjacent cropped jacket with fur trim has some bomber shape alignment, but the prominent faux fur trim conflicts with the fuzzy texture anti-preference despite the warm brown tones."
+  },
+  {
+    "id": "FP_039",
+    "name": "We The Free Easy That Canvas Jacket",
+    "tier": 2,
+    "rationale": "Black canvas jacket with zip front, oversized relaxed fit, and visible brass zipper hardware aligns with dark color, zip closure, and relaxed fit; the canvas material and utilitarian style lack the leather-look or artisanal embellishment but hit core structural preferences."
+  },
+  {
+    "id": "FP_040",
+    "name": "Hailey Tweed Duster",
+    "tier": 4,
+    "rationale": "Full-length tweed duster coat in brown plaid extends well below mid-thigh, directly conflicting with the strong preference for cropped-to-hip-length outerwear despite warm brown tones and textural plaid pattern."
+  },
+  {
+    "id": "FP_041",
+    "name": "We The Free Circe Suede Jacket",
+    "tier": 1,
+    "rationale": "Cognac/brown suede moto-style jacket with zip front, cropped length, and warm earth tone perfectly aligns with leather-look material, warm brown color preference, zip closure, and cropped silhouette."
+  },
+  {
+    "id": "FP_042",
+    "name": "We The Free Martha Workwear Jacket",
+    "tier": 3,
+    "rationale": "Cropped workwear jacket in muted purple/grey has the right length and relaxed fit, but the cool-toned color and basic utilitarian style lack the warm earth tones, leather-look material, and artisanal detailing the user prefers."
+  },
+  {
+    "id": "FP_043",
+    "name": "We The Free Collins Washed Canvas Jacket",
+    "tier": 3,
+    "rationale": "Oversized cropped canvas jacket with snap/button hardware in deep teal/navy has the right relaxed fit and hardware interest, but the cool dark blue tone misses the warm earth-tone palette preference."
+  },
+  {
+    "id": "FP_044",
+    "name": "Barbour Bronwyn Gingham Showerproof Jacket",
+    "tier": 4,
+    "rationale": "Showerproof technical fabric in black-and-white gingham conflicts with anti-preferences for performance/technical outerwear fabrics, and the cool monochrome pattern lacks warm earth tones or artisanal character."
+  },
+  {
+    "id": "FP_045",
+    "name": "Micah Duster",
+    "tier": 4,
+    "rationale": "Full-length duster coat in blue denim extends well past mid-thigh, directly conflicting with the cropped-to-hip-length silhouette preference; the long coat shape is an explicit anti-preference."
+  },
+  {
+    "id": "FP_046",
+    "name": "We The Free Mina Leather Jacket",
+    "tier": 1,
+    "rationale": "Black leather cropped moto jacket with prominent zip front, metal hardware, buckle belt detail, and relaxed fit hits nearly every strong preference: leather material, dark color, zip closure, statement hardware, cropped length, and retro edge."
+  },
+  {
+    "id": "FP_047",
+    "name": "We The Free Carmen Suede Jacket",
+    "tier": 2,
+    "rationale": "Deep burgundy/wine suede cropped jacket with stud/metal embellishment aligns with warm dark tone, leather-like suede material, statement hardware, and cropped length; the fitted silhouette and trucker-style shape are slight departures from the oversized bomber preference."
+  },
+  {
+    "id": "FP_048",
+    "name": "We The Free Circe Leather Jacket",
+    "tier": 1,
+    "rationale": "Black leather cropped jacket with zip front, fitted-to-relaxed silhouette, and visible metal hardware aligns strongly with leather material, black color, zip closure, cropped length, and statement hardware preferences."
+  },
+  {
+    "id": "FP_049",
+    "name": "We The Free Sweet Talk Denim Barn Coat",
+    "tier": 3,
+    "rationale": "Light-wash denim barn coat with button front has a relaxed oversized fit, but the traditional denim construction, light cool blue color, and barn coat silhouette conflict with anti-preferences for basic denim and preferences for dark warm tones."
+  },
+  {
+    "id": "FP_050",
+    "name": "We The Free Sloane Vegan Suede Jacket",
+    "tier": 2,
+    "rationale": "Vegan suede in deep burgundy/wine with snap hardware and cropped relaxed fit aligns with leather-look material, warm dark tone, and cropped silhouette; missing the zip front and bomber shape specifically but otherwise well-matched."
+  },
+  {
+    "id": "FP_051",
+    "name": "Rina Faux Fur Jacket",
+    "tier": 4,
+    "rationale": "Full faux fur jacket in tan/beige directly conflicts with the anti-preference for fur and fuzzy textures, regardless of the warm neutral color and cropped length."
+  },
+  {
+    "id": "FP_052",
+    "name": "Understated Leather Studded Racer Jacket",
+    "tier": 1,
+    "rationale": "Black leather racer jacket with allover stud embellishment, zip front, cropped length, and glossy leather surface perfectly aligns with leather material, dark color, zip closure, statement hardware/metal accents, and artisanal detailing preferences."
+  },
+  {
+    "id": "FP_053",
+    "name": "Nimbus Suede Jacket",
+    "tier": 2,
+    "rationale": "Warm brown/cognac suede with gathered/balloon sleeve construction provides textural interest in a cropped bomber-adjacent shape; the warm earth tone and non-standard sleeve detail align with medium-confidence preferences, though it lacks zip front."
+  },
+  {
+    "id": "FP_054",
+    "name": "Starry Night Embellshed Duster",
+    "tier": 3,
+    "rationale": "Black with gold sequin/embellishment has dark color and statement detailing, but the long duster/kimono length and sheer construction conflict with the cropped silhouette preference; the artisanal embellishment is a positive but outweighed by length mismatch."
+  },
+  {
+    "id": "FP_055",
+    "name": "We The Free Opal Swing Printed Denim Jacket",
+    "tier": 3,
+    "rationale": "Cropped swing silhouette with printed floral/valentine pattern adds visual interest beyond basic denim, but the light cream/pink palette with hearts and roses leans toward pastel/delicate femininity which is an anti-preference."
+  },
+  {
+    "id": "FP_056",
+    "name": "Denim And Bone Embroidered Bed Jacket",
+    "tier": 2,
+    "rationale": "Cropped velvet jacket in soft blue-green with elaborate floral embroidery provides strong artisanal craft detailing, textural complexity, and relaxed bohemian silhouette; the color is not a warm earth tone but the embroidery craft aligns well with medium-confidence preferences."
+  },
+  {
+    "id": "FP_057",
+    "name": "Shoreditch Maxi Topcoat",
+    "tier": 4,
+    "rationale": "Full-length shearling/fur maxi coat directly conflicts with two anti-preferences: long coat silhouette well below mid-thigh and fur/shearling/fuzzy textures."
+  },
+  {
+    "id": "FP_058",
+    "name": "We The Free Farley Vegan Bomber Jacket",
+    "tier": 1,
+    "rationale": "Vegan leather bomber jacket in rich chocolate brown with zip front, ribbed cuffs/hem, oversized relaxed fit, and glossy smooth surface is a near-perfect match across every strong preference: bomber silhouette, faux leather material, warm dark brown color, and zip closure."
+  },
+  {
+    "id": "FP_059",
+    "name": "We The Free Star Power Souvenir Jacket",
+    "tier": 1,
+    "rationale": "Souvenir/varsity bomber jacket in green and gold with embroidered lettering, satin material, ribbed striped hem/cuffs, and cropped length aligns perfectly with bomber silhouette, artisanal embroidery, mixed-media construction, retro aesthetic, and warm earth tones."
+  },
+  {
+    "id": "FP_060",
+    "name": "End Of The Night Embellished Duster",
+    "tier": 4,
+    "rationale": "Floor-length embellished sheer black duster conflicts with the strong preference for cropped-to-hip-length outerwear; despite the black color and embellishment, the extreme length and sheer kaftan-like construction are anti-preferences."
+  },
+  {
+    "id": "FP_061",
+    "name": "We The Free Sweet Talk Flannel-Lined Barn Coat",
+    "tier": 3,
+    "rationale": "Olive green barn coat with corduroy collar and relaxed fit has earth-tone color and oversized shape, but the traditional workwear barn coat silhouette, button front, and hip-to-thigh length are only partially aligned with bomber and zip-front preferences."
+  },
+  {
+    "id": "FP_062",
+    "name": "Henlow Embroidered Duster",
+    "tier": 3,
+    "rationale": "Beautiful embroidered detailing and artisanal craft work align with medium-confidence preferences, but the maxi duster length and light beige/cream palette conflict with core silhouette (cropped) and color (dark warm tones) preferences."
+  },
+  {
+    "id": "FP_063",
+    "name": "We The Free Birdie Denim Jacket",
+    "tier": 3,
+    "rationale": "Cropped bomber-like shape with elasticized hem in denim is a positive silhouette match, but the light wash blue denim and basic construction lean toward the traditional denim jacket anti-preference with minimal embellishment."
+  },
+  {
+    "id": "FP_064",
+    "name": "We The Free Vinny Vegan Leather Bomber",
+    "tier": 1,
+    "rationale": "Vegan leather bomber in warm cognac/brown with zip front, relaxed oversized fit, ribbed cuffs, and glossy smooth surface is a top-tier match across all strong preferences: bomber silhouette, faux leather material, warm brown color, and zip closure."
+  },
+  {
+    "id": "FP_065",
+    "name": "Mauritius Allice Jacket",
+    "tier": 2,
+    "rationale": "Red leather jacket with zip front, cropped length, and hooded detail aligns with leather material, zip closure, and cropped silhouette; however the bright red color diverges from preferred dark/warm earth tones, and the fitted shape is not oversized."
+  },
+  {
+    "id": "FP_066",
+    "name": "Sissel Edelbo Maggie Jacket",
+    "tier": 1,
+    "rationale": "Cropped bomber-adjacent jacket in warm amber/cognac with heavy embroidery, whip-stitch detailing, mixed textile construction, and relaxed oversized fit is a near-perfect match for artisanal craft detailing, warm brown tones, textural complexity, and bohemian-meets-urban aesthetic."
+  },
+  {
+    "id": "FP_067",
+    "name": "Whip Smart Textured Blazer",
+    "tier": 3,
+    "rationale": "Cropped textured blazer in light beige/cream has textural interest, but the fitted tailored blazer form and pale neutral color conflict with preferences for bomber silhouettes, dark warm tones, and the anti-preference for corporate blazers."
+  },
+  {
+    "id": "FP_068",
+    "name": "Barbour Laoise Check Quilted Jacket",
+    "tier": 3,
+    "rationale": "Quilted oversized jacket in warm brown/tan houndstooth has earth tones and oversized fit, but the quilted construction is an anti-preference aesthetic and the Barbour performance/country style leans technical rather than artisanal."
+  },
+  {
+    "id": "FP_069",
+    "name": "Point It Blind Jacket",
+    "tier": 3,
+    "rationale": "Cropped gingham check jacket with button front has the right length, but the light-toned small check pattern and fitted construction lack the dark warm earth tones, oversized relaxed fit, and leather/textural complexity the user prefers."
+  },
+  {
+    "id": "FP_070",
+    "name": "Harley Jacket",
+    "tier": 2,
+    "rationale": "Cropped canvas jacket in warm camel/tan with leather collar accent, zip front, snap hardware, ribbed hem, and relaxed fit aligns with earth-tone color, zip closure, mixed-media construction, and cropped bomber-adjacent silhouette."
+  }
+]

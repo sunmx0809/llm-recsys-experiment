@@ -1,0 +1,492 @@
+[
+  {
+    "id": "FP_001",
+    "name": "Devon Striped Balloon Jacket",
+    "price": "$168.00",
+    "tier": 3,
+    "rationale": "Cropped bomber-adjacent silhouette with drawstring hem and balloon sleeves aligns with shape preferences, but the cream/white base with thin black stripes reads as a cool, washed-out colorway and the fabric appears to be a single lightweight material lacking textural complexity."
+  },
+  {
+    "id": "FP_002",
+    "name": "Lotty Jacquard Jacket",
+    "price": "$198.00",
+    "tier": 2,
+    "rationale": "Cropped jacket with jacquard weave providing strong textural complexity and decorative surface interest. However, the dusty rose/salmon colorway leans toward a warm pastel that falls outside the preferred dark earth-tone palette, and the button-front officer styling is not a bomber silhouette."
+  },
+  {
+    "id": "FP_003",
+    "name": "We The Free Fringe Out Vegan Suede Jacket",
+    "price": "$168.00",
+    "tier": 4,
+    "rationale": "Vegan suede is an anti-preference material, the fringe is a boho/festival detail, and the oversized shirt-jacket silhouette with suede construction conflicts with multiple rejection criteria. The cognac color is correct but cannot overcome the suede and boho combination."
+  },
+  {
+    "id": "FP_004",
+    "name": "We The Free Brick Lane Jacquard Maxi Shirt Jacket",
+    "price": "$228.00",
+    "tier": 4,
+    "rationale": "Maxi-length silhouette extending well below mid-thigh directly conflicts with the strong length anti-preference. Despite the appealing olive jacquard texture, the long duster/robe construction is a definitive rejection trigger."
+  },
+  {
+    "id": "FP_005",
+    "name": "We The Free Lemon Denim Jacket",
+    "price": "$148.00",
+    "tier": 3,
+    "rationale": "Oversized cropped denim jacket in a washed blue with a contrasting corduroy collar provides some mixed-material interest. However, the washed-out blue tone is a cool color that conflicts with the warm earth-tone palette preference, and the overall construction reads as a plain denim jacket."
+  },
+  {
+    "id": "FP_006",
+    "name": "Dolman Quilted Knit Jacket",
+    "price": "$198.00",
+    "tier": 2,
+    "rationale": "Cropped bomber-adjacent silhouette with zip front and quilted grid texture that provides surface design interest. The camel/dusty rose tone is in the acceptable warm range and the dolman sleeves give relaxed volume. However, the quilted construction leans toward the robe-like quilted aesthetic that was flagged as a conditional risk."
+  },
+  {
+    "id": "FP_007",
+    "name": "We The Free Iggy Hooded Denim Jacket",
+    "price": "$198.00",
+    "tier": 3,
+    "rationale": "The bomber-like cropped shape with volume and the mixed-material element of the jersey hood on a denim body are positive signals. However, the washed-out light blue denim is a cool tone that conflicts with the color palette, and the hoodie element gives it a casual rather than craft-forward feel."
+  },
+  {
+    "id": "FP_008",
+    "name": "We The Free Madison City Denim Jacket",
+    "price": "$128.00",
+    "tier": 3,
+    "rationale": "Cropped denim jacket in medium blue wash with a relaxed fit. While the silhouette is acceptable, it reads as a plain, single-material denim jacket with no embellishment or textural complexity, which is the largest rejection category. The blue wash is also not in the preferred earth-tone palette."
+  },
+  {
+    "id": "FP_009",
+    "name": "Dean Double-Breasted Blazer",
+    "price": "$198.00",
+    "tier": 4,
+    "rationale": "Traditional double-breasted blazer silhouette in cream/ivory with a windowpane pattern is a direct hit on the anti-preference for corporate/tailored blazers in single materials. The light, washed-out colorway and conventional blazer form combine multiple rejection triggers."
+  },
+  {
+    "id": "FP_010",
+    "name": "Jojo Washed Oversized Jacket",
+    "price": "$198.00",
+    "tier": 3,
+    "rationale": "Oversized cropped utility jacket in olive/army green is the right color family and the oversized relaxed fit aligns with silhouette preferences. However, the garment reads as a single-material washed canvas with no embellishment or textural complexity, lacking the craft-forward element required for a higher tier."
+  },
+  {
+    "id": "FP_011",
+    "name": "Whip Smart Blazer",
+    "price": "$168.00",
+    "tier": 4,
+    "rationale": "Traditional tailored blazer silhouette in a single heathered taupe material directly conflicts with the anti-preference for corporate blazers. The fitted, body-skimming cut is opposite to the preferred relaxed/oversized fit, and there is no textural complexity."
+  },
+  {
+    "id": "FP_012",
+    "name": "Whip Smart Plaid Blazer",
+    "price": "$168.00",
+    "tier": 4,
+    "rationale": "Despite the plaid pattern adding some visual interest, this is a conventional single-button tailored blazer in a beige/tan colorway. The fitted blazer silhouette is an anti-preference, and the washed-out neutral palette conflicts with the color requirements."
+  },
+  {
+    "id": "FP_013",
+    "name": "We The Free Monique Denim Duster",
+    "price": "$228.00",
+    "tier": 4,
+    "rationale": "Full-length duster coat extending well below mid-thigh with animal print pattern directly conflicts with two major anti-preferences: long coat silhouette and animal prints. This combination of rejection triggers makes it a definitive skip."
+  },
+  {
+    "id": "FP_014",
+    "name": "We The Free Opal Swing Denim Jacket",
+    "price": "$128.00",
+    "tier": 3,
+    "rationale": "Cropped swing-shape denim jacket has an interesting unconventional silhouette with volume and a relaxed fit. However, the medium blue wash is not in the preferred color palette, and it reads as a plain single-material denim piece without embellishment or textural complexity."
+  },
+  {
+    "id": "FP_015",
+    "name": "Winter Valley Kimono",
+    "price": "$98.00",
+    "tier": 4,
+    "rationale": "Long, flowing, sheer kimono in a pastel pink/nude with ruffled tie-front construction hits multiple anti-preferences: pastel color, tie-front/open-front closure, long length, and lightweight fabric. This is a boho/festival piece that conflicts with the user's aesthetic on every dimension."
+  },
+  {
+    "id": "FP_016",
+    "name": "We The Free Birdie Track Jacket",
+    "price": "$98.00",
+    "tier": 3,
+    "rationale": "Cropped bomber-adjacent track jacket with zip front and ribbed cuffs matches the silhouette preference. However, the pale blue/grey washed-out color is a cool tone that conflicts with the palette preference, and the plain single-material construction lacks the required textural complexity or embellishment."
+  },
+  {
+    "id": "FP_017",
+    "name": "Aura Liner",
+    "price": "$168.00",
+    "tier": 3,
+    "rationale": "Cropped bomber-adjacent quilted liner jacket in olive green with zip front hits the right silhouette and color. However, it appears to be a relatively plain quilted single-material piece that may lack the pronounced textural complexity or decorative embellishment the user requires, though it is close to qualifying."
+  },
+  {
+    "id": "FP_018",
+    "name": "We The Free Outset Jacket",
+    "price": "$168.00",
+    "tier": 3,
+    "rationale": "Ivory/cream base jacket with mixed-material interest from the lace hem peplum detail and the button-front woven body. However, the ivory/cream color is only acceptable with heavy darker contrast elements (which are minimal here), and the boho-leaning lace peplum construction is a borderline rejection trigger."
+  },
+  {
+    "id": "FP_019",
+    "name": "Juliet Duster",
+    "price": "$78.00",
+    "tier": 4,
+    "rationale": "Open-front draped duster/kimono in bright turquoise/green is a direct conflict with multiple anti-preferences: tie-front/open-front closure, bright primary color, lightweight floaty fabric, and boho/festival aesthetic. This is as far from the user's preferred style as possible."
+  },
+  {
+    "id": "FP_020",
+    "name": "Blanket Duster Wrap",
+    "price": "$98.00",
+    "tier": 4,
+    "rationale": "Long blanket-style wrap/poncho in a bright red colorway extending well below mid-thigh conflicts with the length anti-preference and the avoidance of bright primary colors. The open-front wrap construction is also an anti-preference closure type."
+  },
+  {
+    "id": "FP_021",
+    "name": "Renaux Officer Jacket",
+    "price": "$228.00",
+    "tier": 2,
+    "rationale": "Structured officer jacket in deep olive/green tweed with high funnel neck, button details, and textured wool construction. The dark olive color is preferred, the cropped length is correct, and the military detailing adds visual interest. However, the fitted/tailored silhouette and conventional button-front officer construction lean toward the corporate/tailored rejection zone."
+  },
+  {
+    "id": "FP_022",
+    "name": "We The Free Opal Swing Suede Jacket",
+    "price": "$298.00",
+    "tier": 4,
+    "rationale": "Suede jacket is a direct anti-preference material (3 examples at 3 price points all rejected per the profile). Despite the interesting swing silhouette and cognac/tan color, suede is a definitive rejection trigger."
+  },
+  {
+    "id": "FP_023",
+    "name": "Barbour Kennedy Check Showerproof Jacket",
+    "price": "$325.00",
+    "tier": 4,
+    "rationale": "Long check-pattern showerproof coat extending below mid-thigh in a conventional British utility style with a corporate/minimalist aesthetic. The length, tailored construction, and overall styling conflict with silhouette and aesthetic preferences. Premium price for a conventional form is also a negative signal."
+  },
+  {
+    "id": "FP_024",
+    "name": "We The Free Blair Vegan Suede Jacket",
+    "price": "$168.00",
+    "tier": 4,
+    "rationale": "Vegan suede in a cognac/brown shirt-jacket silhouette. Suede material (including vegan suede) is an explicit anti-preference, and the plain single-material construction with no embellishment provides zero textural complexity. Despite the correct color, suede is a dealbreaker."
+  },
+  {
+    "id": "FP_025",
+    "name": "Charlotte Simone Stella Jacket",
+    "price": "$537.00",
+    "tier": 3,
+    "rationale": "Black jacket with crystal/stud embellishment and faux fur trim provides the mixed-material and decorative surface interest the user likes. However, the faux fur is an anti-preference material, and the special occasion/evening styling veers into bridal/special occasion territory. The high price for a piece with faux fur further reduces appeal."
+  },
+  {
+    "id": "FP_026",
+    "name": "We The Free Fringe Out Suede Jacket",
+    "price": "$598.00",
+    "tier": 4,
+    "rationale": "Real suede with fringe detailing is a double anti-preference hit: suede material and boho/festival fringe. The high price point for a conventional suede-and-fringe form (which the user explicitly would not pay a premium for) compounds the mismatch."
+  },
+  {
+    "id": "FP_027",
+    "name": "FP One Birdie Washed Jacket",
+    "price": "$128.00",
+    "tier": 3,
+    "rationale": "Cropped bomber-adjacent jacket in olive with a relaxed fit and zip front matches the silhouette. The washed olive color is in the preferred palette. However, the garment appears to be a plain, texturally flat single-material piece lacking the embellishment or textural complexity that would make it a bomber the user would engage with."
+  },
+  {
+    "id": "FP_028",
+    "name": "Monarch Magic Jacket",
+    "price": "$798.00",
+    "tier": 1,
+    "rationale": "Cropped leather-look jacket in deep green/teal with elaborate butterfly applique, mixed materials (metallic, matte, glossy elements), and artisanal embellishment on the back and sleeves. This is an architecturally distinctive statement piece combining structured modern silhouette with extraordinary craft detailing. The price premium is justified by the extreme design novelty, aligning with the user's willingness to pay $700+ for truly distinctive pieces."
+  },
+  {
+    "id": "FP_029",
+    "name": "Christy Leather Moto Jacket",
+    "price": "$298.00",
+    "tier": 4,
+    "rationale": "Classic moto jacket silhouette in red leather with star appliques on the back. Despite the decorative stars, the moto jacket silhouette is an explicit anti-preference, and the bright red color is outside the preferred dark/warm earth-tone palette."
+  },
+  {
+    "id": "FP_030",
+    "name": "Louder Please Hooded Faux Fur Jacket",
+    "price": "$148.00",
+    "tier": 4,
+    "rationale": "Full faux fur jacket in dark color. Faux fur and heavy plush textures are an explicit anti-preference material. The cropped silhouette is correct but cannot overcome the material rejection."
+  },
+  {
+    "id": "FP_031",
+    "name": "Parker Leather Jacket",
+    "price": "$698.00",
+    "tier": 2,
+    "rationale": "Oversized black leather jacket with a relaxed fit, zip front, and interesting contrast piping/stitching details. The dark color, zip closure, oversized fit, and glossy leather with visible seam detailing provide some textural complexity. However, it is a high-price conventional leather jacket form (the user won't pay premium for conventional forms) and lacks the pronounced artisanal/craft embellishment that would make it Tier 1."
+  },
+  {
+    "id": "FP_032",
+    "name": "Driftwood Gardenia Embroidered Denim Jacket",
+    "price": "$298.00",
+    "tier": 3,
+    "rationale": "Heavily embroidered denim jacket with floral and folk motifs provides strong craft-inspired embellishment. However, the belted/tie-waist construction and the longer hip-to-thigh length lean toward a boho/festival aesthetic. The medium blue denim is not in the preferred dark earth-tone palette, and the belt closure is a rejection trigger."
+  },
+  {
+    "id": "FP_033",
+    "name": "Heirloom Maxi Top",
+    "price": "$198.00",
+    "tier": 4,
+    "rationale": "Long white lace open-front maxi duster/kimono. This hits nearly every anti-preference: white/pastel color, long length below mid-thigh, open-front closure, lightweight fabric, and boho/festival/bridal aesthetic. A definitive skip."
+  },
+  {
+    "id": "FP_034",
+    "name": "We The Free Lana Leather Jacket",
+    "price": "$798.00",
+    "tier": 1,
+    "rationale": "Dark black/aged leather bomber-adjacent jacket with elaborate gold embroidery, decorative metal buttons, and mixed artisanal detailing on the body and sleeves. This is the exact intersection of the user's preferences: bomber silhouette + leather + heavy embellishment + dark earth tone + craft-forward artisanal details. The premium price is justified by the extraordinary design novelty. A quintessential Tier 1 match."
+  },
+  {
+    "id": "FP_035",
+    "name": "Mauritius Morgan Leather Moto Jacket",
+    "price": "$378.00",
+    "tier": 3,
+    "rationale": "Black leather jacket with subtle studded detailing provides some textural interest and the color is correct. However, the close-up image suggests a moto-adjacent silhouette which is an anti-preference, and paying a premium for a conventional leather jacket form conflicts with the user's price behavior pattern."
+  },
+  {
+    "id": "FP_036",
+    "name": "Moon Petals Jacket",
+    "price": "$698.00",
+    "tier": 4,
+    "rationale": "Long faux fur and embroidered satin kimono/duster extending well below mid-thigh. Despite the beautiful embroidered detailing and mixed materials, the faux fur material is an anti-preference, the long duster length is a rejection trigger, and the boho/open-front construction conflicts with closure preferences."
+  },
+  {
+    "id": "FP_037",
+    "name": "French Exit Jacket",
+    "price": "$228.00",
+    "tier": 4,
+    "rationale": "Cropped fitted jacket with faux fur collar in a cream/gold jacquard. The faux fur trim is an anti-preference material, the fitted/body-skimming silhouette conflicts with the relaxed/oversized preference, and the light cream/gold colorway is too pale without sufficient dark contrast elements."
+  },
+  {
+    "id": "FP_038",
+    "name": "Charlotte Simone Rocky Jacket",
+    "price": "$580.00",
+    "tier": 4,
+    "rationale": "Leopard/animal print faux fur bomber jacket. Animal prints are an explicit anti-preference, and faux fur is also an anti-preference material. Despite the cropped bomber silhouette, the combination of two strong rejection triggers makes this a definitive skip."
+  },
+  {
+    "id": "FP_039",
+    "name": "We The Free Easy That Canvas Jacket",
+    "price": "$128.00",
+    "tier": 3,
+    "rationale": "Black canvas zip-front jacket with an oversized relaxed fit and a brass/gold zipper accent. The color and silhouette are aligned, but the plain single-material canvas construction lacks the textural complexity and embellishment the user requires. The only visual interest is the contrast zipper, which is insufficient."
+  },
+  {
+    "id": "FP_040",
+    "name": "Hailey Tweed Duster",
+    "price": "$228.00",
+    "tier": 4,
+    "rationale": "Long tweed coat extending well below mid-thigh in a brown windowpane plaid with a traditional tailored/corporate aesthetic. The length and conventional coat silhouette are both strong anti-preferences, and the traditional styling reads as corporate despite the tweed texture."
+  },
+  {
+    "id": "FP_041",
+    "name": "We The Free Circe Suede Jacket",
+    "price": "$598.00",
+    "tier": 4,
+    "rationale": "Fitted suede moto-adjacent jacket in brown. Suede is a definitive anti-preference material, the fitted/body-skimming silhouette conflicts with the oversized preference, and the high price for a conventional suede jacket form is a mismatch with price behavior."
+  },
+  {
+    "id": "FP_042",
+    "name": "We The Free Martha Workwear Jacket",
+    "price": "$168.00",
+    "tier": 3,
+    "rationale": "Cropped workwear jacket in a dark grey/charcoal with a relaxed fit. The dark color and cropped silhouette are positive. However, it reads as a relatively plain, single-material utility jacket without the embellishment or textural complexity the user demands. The rosette pin adds minimal interest."
+  },
+  {
+    "id": "FP_043",
+    "name": "We The Free Collins Washed Canvas Jacket",
+    "price": "$228.00",
+    "tier": 3,
+    "rationale": "Cropped double-breasted canvas jacket in deep navy/teal with a funnel neck and metal grommet details. The cropped silhouette, dark color, and metal hardware provide some alignment. However, the overall construction is fairly plain single-material canvas, and the navy blue is a cooler tone than the preferred warm earth tones."
+  },
+  {
+    "id": "FP_044",
+    "name": "Barbour Bronwyn Gingham Showerproof Jacket",
+    "price": "$325.00",
+    "tier": 4,
+    "rationale": "Black and white gingham check showerproof jacket with a corporate/utilitarian aesthetic. The conventional construction, cool black-and-white gingham pattern, and premium price for a conventional form all conflict with the user's preferences. No textural complexity or embellishment."
+  },
+  {
+    "id": "FP_045",
+    "name": "Micah Duster",
+    "price": "$328.00",
+    "tier": 4,
+    "rationale": "Full-length duster coat extending well below mid-thigh in a denim-like material with a long lapeled/belted construction. The long coat silhouette is a primary anti-preference, and the trench-like styling with boho undertones compounds the mismatch."
+  },
+  {
+    "id": "FP_046",
+    "name": "We The Free Mina Leather Jacket",
+    "price": "$698.00",
+    "tier": 3,
+    "rationale": "Black leather moto jacket with a classic cropped silhouette and high-quality hardware. The color is correct and the leather has a nice aged quality. However, this reads as a classic moto jacket silhouette (anti-preference) at a premium price for a conventional form, lacking the design novelty needed to justify the cost."
+  },
+  {
+    "id": "FP_047",
+    "name": "We The Free Carmen Suede Jacket",
+    "price": "$598.00",
+    "tier": 4,
+    "rationale": "Burgundy/wine suede jacket with studded detailing. Suede is an explicit anti-preference material at any price point. Despite the stud embellishment and the cropped silhouette, the suede construction is a definitive rejection trigger."
+  },
+  {
+    "id": "FP_048",
+    "name": "We The Free Circe Leather Jacket",
+    "price": "$598.00",
+    "tier": 3,
+    "rationale": "Black leather jacket with a fitted/body-skimming silhouette and zip front. While the glossy black leather and zip closure are positive signals, the fitted construction conflicts with the oversized preference, and the plain single-material leather lacks embellishment. The premium price for a conventional leather jacket form is also a mismatch."
+  },
+  {
+    "id": "FP_049",
+    "name": "We The Free Sweet Talk Denim Barn Coat",
+    "price": "$248.00",
+    "tier": 3,
+    "rationale": "Oversized denim barn coat in medium blue wash. The relaxed oversized fit is correct, and the barn coat offers a slightly unconventional silhouette. However, the light blue denim is not in the preferred earth-tone palette, and the plain single-material denim construction lacks textural complexity."
+  },
+  {
+    "id": "FP_050",
+    "name": "We The Free Sloane Vegan Suede Jacket",
+    "price": "$198.00",
+    "tier": 4,
+    "rationale": "Burgundy/wine vegan suede jacket in a relaxed oversized fit. Despite the correct silhouette and warm dark color, vegan suede is an anti-preference material that was consistently rejected across multiple examples in the user's browsing history."
+  },
+  {
+    "id": "FP_051",
+    "name": "Rina Faux Fur Jacket",
+    "price": "$168.00",
+    "tier": 4,
+    "rationale": "Oversized faux fur jacket in a neutral beige/tan. Faux fur is an explicit anti-preference material. Despite the cropped-to-hip silhouette and warm neutral color, the heavy plush faux fur texture is a definitive rejection trigger."
+  },
+  {
+    "id": "FP_052",
+    "name": "Understated Leather Studded Racer Jacket",
+    "price": "$543.00",
+    "tier": 2,
+    "rationale": "Black leather racer jacket with extensive stud/hardware embellishment covering the shoulders and arms. The black leather, zip front, decorative metalwork, and cropped silhouette align with multiple preferences. However, the fitted racer silhouette is close to the moto anti-preference, and the price is high for a form that while embellished, is still recognizably a racer jacket."
+  },
+  {
+    "id": "FP_053",
+    "name": "Nimbus Suede Jacket",
+    "price": "$498.00",
+    "tier": 4,
+    "rationale": "Brown suede jacket with gathered/puffed sleeves. Suede is a definitive anti-preference material, and the premium price for a suede piece compounds the rejection. The gathered sleeves provide some interest but cannot overcome the material mismatch."
+  },
+  {
+    "id": "FP_054",
+    "name": "Starry Night Embellshed Duster",
+    "price": "$198.00",
+    "tier": 4,
+    "rationale": "Long sheer black duster with gold sequin/embellishment detailing. While the black and gold color combination and embellishment are interesting, the long duster length, open-front construction, and sheer/lightweight fabric all conflict with anti-preferences. The special occasion/evening styling is also a rejection trigger."
+  },
+  {
+    "id": "FP_055",
+    "name": "We The Free Opal Swing Printed Denim Jacket",
+    "price": "$148.00",
+    "tier": 3,
+    "rationale": "Cropped swing denim jacket with a printed floral/hearts pattern on a cream base. The swing silhouette is interesting, but the cream/pink/floral print reads as pastel and the overall aesthetic leans cute/romantic rather than craft-forward. The print adds visual interest but conflicts with the color palette."
+  },
+  {
+    "id": "FP_056",
+    "name": "Denim And Bone Embroidered Bed Jacket",
+    "price": "$248.00",
+    "tier": 3,
+    "rationale": "Cropped jacket with floral embroidery on velvet in a dusty blue/teal colorway. The embroidery provides craft-forward embellishment, but the tie-front closure is an explicit anti-preference, and the blue/teal velvet is a cool tone. The boho aesthetic of the overall piece conflicts with the user's preference for structured modern silhouettes housing artisanal details."
+  },
+  {
+    "id": "FP_057",
+    "name": "Shoreditch Maxi Topcoat",
+    "price": "$498.00",
+    "tier": 4,
+    "rationale": "Full-length maxi topcoat in beige/tan shearling-style material extending well below mid-thigh. The long coat silhouette and faux fur/shearling material are both explicit anti-preferences, and the premium price for a conventional long coat form compounds the mismatch."
+  },
+  {
+    "id": "FP_058",
+    "name": "We The Free Farley Vegan Bomber Jacket",
+    "price": "$198.00",
+    "tier": 2,
+    "rationale": "Vegan leather bomber jacket in deep chocolate/brown with a cropped silhouette, zip front, ribbed hem and cuffs, and smooth glossy finish. The bomber silhouette, warm dark brown color, glossy faux leather, and price point all align well. However, it appears to be a relatively plain bomber without the pronounced embellishment the profile requires for bombers to reach Tier 1 (the 'Embellishment Imperative' conditional rule)."
+  },
+  {
+    "id": "FP_059",
+    "name": "We The Free Star Power Souvenir Jacket",
+    "price": "$298.00",
+    "tier": 1,
+    "rationale": "Cropped souvenir/varsity bomber jacket in green and gold with embroidered text, stars, and contrast striped ribbing. This is the exact formula the user loves: bomber silhouette + meaningful decorative embellishment (embroidery, contrast materials) + warm color palette (olive green, gold, cream) + cropped length + relaxed fit. The mixed satin and knit materials add textural complexity."
+  },
+  {
+    "id": "FP_060",
+    "name": "End Of The Night Embellished Duster",
+    "price": "$198.00",
+    "tier": 4,
+    "rationale": "Full-length sheer black embellished duster with sequined scallop pattern extending to the floor. Despite the beautiful embellishment and black colorway, this is a maxi-length piece, the construction is sheer/lightweight, and the special occasion/evening styling conflicts with the user's everyday craft-forward modernist aesthetic."
+  },
+  {
+    "id": "FP_061",
+    "name": "We The Free Sweet Talk Flannel-Lined Barn Coat",
+    "price": "$248.00",
+    "tier": 3,
+    "rationale": "Olive green oversized barn coat with corduroy collar and flannel lining peeking out, providing mixed-material interest. The olive color and relaxed fit are correct, and the contrasting collar adds some textural complexity. However, the overall silhouette is a conventional workwear barn coat without the craft-forward embellishment the user requires for engagement."
+  },
+  {
+    "id": "FP_062",
+    "name": "Henlow Embroidered Duster",
+    "price": "$398.00",
+    "tier": 4,
+    "rationale": "Long embroidered duster/kimono in cream with floral embroidery, extending well below mid-thigh. Despite the beautiful craft embroidery, the long open-front kimono/robe silhouette is an explicit rejection trigger (artisanal details in bohemian constructions get rejected), and the cream/beige colorway lacks dark contrast elements."
+  },
+  {
+    "id": "FP_063",
+    "name": "We The Free Birdie Denim Jacket",
+    "price": "$128.00",
+    "tier": 3,
+    "rationale": "Cropped denim jacket with elasticized/gathered hem giving a bomber-adjacent shape in light blue wash. The silhouette is promising, but the light washed-out blue is a cool tone outside the preferred palette, and the plain denim construction lacks the embellishment or textural complexity the user demands."
+  },
+  {
+    "id": "FP_064",
+    "name": "We The Free Vinny Vegan Leather Bomber",
+    "price": "$198.00",
+    "tier": 2,
+    "rationale": "Vegan leather bomber in cognac/brown with a relaxed oversized fit, zip front, and ribbed hem. The bomber silhouette, warm brown color, glossy faux leather material, and price point align with multiple preferences. However, the plain unadorned construction fails the Embellishment Imperative -- this is a bomber without meaningful surface-level design interest, which the profile explicitly says was a rejection pattern even from desirable brands."
+  },
+  {
+    "id": "FP_065",
+    "name": "Mauritius Allice Jacket",
+    "price": "$273.00",
+    "tier": 4,
+    "rationale": "Red leather hooded jacket with a fitted silhouette. The bright red color is outside the preferred earth-tone palette, the fitted/body-skimming cut conflicts with the oversized preference, and the red leather with hooded construction reads as a conventional sporty piece without craft-forward details."
+  },
+  {
+    "id": "FP_066",
+    "name": "Sissel Edelbo Maggie Jacket",
+    "price": "$550.00",
+    "tier": 1,
+    "rationale": "Cropped open-front jacket in warm cognac/rust with elaborate bold embroidery, whip-stitch detailing, and mixed-material applique work. The warm earth-tone palette (cognac, blue, cream), rich artisanal craft embellishment, cropped silhouette, and oversized relaxed fit align with nearly every stated preference. The extensive decorative surface work and mixed textile techniques make this a strong craft-forward modernist piece. The open front is a concern but the overall craft intensity may override it."
+  },
+  {
+    "id": "FP_067",
+    "name": "Whip Smart Textured Blazer",
+    "price": "$198.00",
+    "tier": 3,
+    "rationale": "Cropped blazer in a cream/off-white textured fabric with a single-button closure. While the textured weave provides some visual interest and the cropped silhouette is correct, the blazer form is close to the tailored/corporate anti-preference, the pale cream color lacks darker contrast elements, and the fitted silhouette is not relaxed/oversized."
+  },
+  {
+    "id": "FP_068",
+    "name": "Barbour Laoise Check Quilted Jacket",
+    "price": "$355.00",
+    "tier": 2,
+    "rationale": "Oversized quilted puffer-style jacket in a brown/tan houndstooth check pattern with metal hardware. The warm earth-tone color, oversized relaxed fit, quilted texture, and the houndstooth pattern provide textural and visual interest. However, it lacks the pronounced artisanal/craft embellishment the user strongly prefers, and the premium price for a conventional quilted form is a concern."
+  },
+  {
+    "id": "FP_069",
+    "name": "Point It Blind Jacket",
+    "price": "$198.00",
+    "tier": 3,
+    "rationale": "Cropped plaid/check jacket in muted green-beige tones with button front. The cropped length and check pattern provide some visual interest. However, the fitted silhouette, conventional button-front construction, and overall plain styling lack the textural complexity and embellishment the user requires. The cool-toned check pattern is also not quite in the preferred warm palette."
+  },
+  {
+    "id": "FP_070",
+    "name": "Harley Jacket",
+    "price": "$198.00",
+    "tier": 2,
+    "rationale": "Cropped zip-front utility/bomber-adjacent jacket in warm camel/tan with a leather collar detail and metal hardware. The warm earth-tone color, cropped silhouette, zip closure, and mixed-material element of the contrasting leather collar provide moderate alignment. However, the overall construction is still relatively plain without the pronounced embellishment or craft detailing that would push it to Tier 1."
+  }
+]
