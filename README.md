@@ -78,7 +78,7 @@ python scripts/analyze_results.py \
 ### Just explore the results (no API key needed)
 
 ```bash
-git clone https://github.com/sunmx0809/llm-recsys-experiment.git
+git clone https://github.com/sunmx0809/prototype-llm-recsys.git
 cd llm-recsys-experiment
 pip install jupyterlab pandas matplotlib seaborn
 jupyter lab llm_recsys_notebook.ipynb
