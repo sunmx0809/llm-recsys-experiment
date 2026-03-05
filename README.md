@@ -2,20 +2,69 @@
 
 Can an LLM infer your latent style preferences from just 10 clicks — and then recommend items from retailers it has never seen?
 
-This repo contains a complete, reproducible experiment testing LLM-based cold-start recommendation. A user browsed ~370 jackets on Anthropologie.com, clicked on 10, and an LLM (Claude) synthesized a preference profile from those clicks alone. That profile was then tested blind against 103 items from Free People and Banana Republic.
+This repo contains a complete, reproducible experiment testing LLM-based cold-start recommendation. A user browsed ~370 jackets on Anthropologie.com, clicked on 10, and an LLM (Claude Opus 4.6) synthesized a preference profile from those clicks alone. That profile was then tested blind against 103 items from Free People and Banana Republic.
 
 The goal isn't a production system — it's building technical intuition for what LLMs can and can't do in recommendation, and where the interesting failure modes are.
 
 ## Key Findings
 
-| Finding | Detail |
-|---------|--------|
-| The LLM understood preferences well from 10 clicks | Correctly identified: craft-forward bombers, textural complexity, dark earth tones, cropped silhouettes |
-| Negative signal improved understanding but hurt recommendations | Contrastive profile had sharper logic ("bombers ONLY with embellishment") but created hard rejection gates, causing more misses |
-| Positive-only profile achieved better recall at similar precision | Simpler profile was more permissive, capturing more items the user actually liked |
-| A "text bottleneck" limits quality | Image → text → LLM pipeline loses continuous visual info (texture, drape, color temperature) when compressing to text tokens |
-| Tier 4 calibration worked well | Items scored as "No Match" had ~9% click rate vs ~17% base rate — the system reliably identifies non-matches |
-| Cross-retailer transfer is hard | User click rate: Free People 24% vs Banana Republic 3% — brand/aesthetic fit matters beyond item attributes |
+### 1. Preference extraction works — but there's a text bottleneck
+
+LLMs can extract sophisticated preferences from minimal engagement data. From 10 positive and 35 negative samples, five independent agents unanimously extracted nuanced conditional preferences — not just "likes bombers" but "likes bombers ONLY with embellishment." Agent variability was remarkably low; a single run captures the core profile reliably.
+
+However, the image-to-text-to-LLM pipeline loses information. When the model writes "warm earth tones," it collapses a continuous visual space into a discrete label. Downstream scoring then matches items that are technically earth-toned but visually wrong. A native multimodal approach comparing images directly without the text intermediary might unlock better performance.
+
+### 2. Noisy negatives can backfire
+
+The experiment's most counterintuitive result. Adding 35 skipped items as negative signal *sharpened* the preference profile but *hurt* recommendations:
+
+| Metric | Positive-only | Contrastive |
+|--------|--------------|-------------|
+| Recall @ recommendation set | 50.0% | 22.2% |
+| Precision @ recommendation set | 23.7% | 23.5% |
+| Lift over baseline | 1.71x | 1.45x |
+| F1 | 32.1% | 22.9% |
+| Catastrophic misses (clicked items scored "No Match") | 2 | 5 |
+
+Why? Browse skips are noisy — subtle factors (photo angles, cognitive effort) drive inaction. The LLM treated soft browsing skips as hard rejections, creating overly strict rules. Three suede rejections became a categorical material ban; zero blazer clicks became a silhouette exclusion. Neither held up against real behavior. Negative signals should be treated as hypotheses with confidence proportional to evidence — not absolute exclusions.
+
+### 3. Better filter than ranker
+
+Items scored as "No Match" (Tier 4) were clicked at half the baseline rate (9.3% vs. 17.5%) — the model reliably identifies what the user does *not* want. But within the "potentially interesting" zone, the model's confidence ranking was no better than random:
+
+| Tier | Clicks / Total | Click Rate |
+|------|---------------|------------|
+| Tier 1 (Strong Match) | 1 / 4 | 25.0% |
+| Tier 2 (Moderate Match) | 3 / 13 | 23.1% |
+| Tier 3 (Weak Match) | 9 / 32 | 28.1% |
+| Tier 4 (No Match) | 5 / 54 | 9.3% |
+
+The contrastive profile's Tier 3 items actually outperformed its Tier 1+2 — an inverted calibration. The practical implication: use LLM scoring as a pre-filter to eliminate the bottom ~50% of a catalog, then use traditional signals (collaborative filtering, engagement prediction) for fine-grained ranking.
+
+### 4. Adjacent contexts outperform distant ones
+
+The same preference profile produced starkly different results depending on aesthetic distance from the training data:
+
+| Retailer | Click Rate | Aesthetic Distance |
+|----------|-----------|-------------------|
+| Free People | 24.3% | Near (sister brand to Anthropologie under URBN Inc.) |
+| Banana Republic | 3.0% | Far (classic, corporate, minimal) |
+
+The profile captured preferences specific to Anthropologie's aesthetic world. When applied to a similar world (Free People), those preferences transferred. When applied to a distant world (Banana Republic), the profile had almost nothing to match against. Preference extraction is only as generalizable as the training data is diverse.
+
+### 5. The sweet spot: cold-start and niche interests
+
+LLM inference cost is non-trivial (~$130 total on Claude Opus 4.6 across 430 API calls). The highest-ROI application is where co-engagement signals are sparse — cold-start users/items and niche interests — where collaborative filtering lacks data and LLMs' incremental value is highest. Where co-engagement data is abundant, collaborative filtering already performs well.
+
+## What Remains Open
+
+1. How well do these directional insights hold on a larger, more diverse dataset?
+2. Can more specific prompts improve LLM recommender accuracy and bypass the text bottleneck?
+3. How does LLM-based recommendation scale upon longer and more diversified user history?
+4. How many and how diverse are the minimum viable signals (user history) needed?
+5. Can a native multimodal embedding without the text intermediary improve accuracy?
+6. Does the negative-signal backfire hold with higher-quality negative signals at scale?
+7. Would weighted multi-attribute scoring — rather than binary rule-matching — produce better ranking gradations?
 
 ## What's In This Repo
 
@@ -79,7 +128,7 @@ python scripts/analyze_results.py \
 
 ```bash
 git clone https://github.com/sunmx0809/prototype-llm-recsys.git
-cd llm-recsys-experiment
+cd prototype-llm-recsys
 pip install jupyterlab pandas matplotlib seaborn
 jupyter lab llm_recsys_notebook.ipynb
 ```
@@ -124,11 +173,11 @@ Phase 5: Analysis
 
 ### The 5-Agent Ensemble
 
-To reduce LLM output variance, each preference synthesis runs N independent agents with the same prompt. Their outputs are merged into a consensus profile with agreement counts (e.g., "5/5 agents agreed on bomber preference"). This is analogous to inter-rater reliability in human annotation.
+To reduce LLM output variance, each preference synthesis runs 5 independent agents with the same prompt. Their outputs are merged into a consensus profile with agreement counts (e.g., "5/5 agents agreed on bomber preference"). This is analogous to inter-rater reliability in human annotation. Agent variability was remarkably low — differences were cosmetic (naming conventions, edge-case observations), not substantive.
 
 ## Cost
 
-The original experiment cost ~$130 on Claude Opus (the most expensive model) in a conversational setting. A standalone replication is much cheaper:
+The original experiment cost ~$130 on Claude Opus 4.6. A standalone replication is much cheaper:
 
 | Model | 5 agents, 103 items | 3 agents, 50 items |
 |-------|--------------------|--------------------|
